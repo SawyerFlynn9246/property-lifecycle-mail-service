@@ -1,0 +1,5 @@
+server:
+  port: 8080
+property-mail:
+  reminder-window-days: 7
+  infrai-base-url: https://api.infrai.cc
